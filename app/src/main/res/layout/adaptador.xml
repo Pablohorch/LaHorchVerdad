@@ -59,6 +59,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:background="@android:color/background_light"
                 android:text="Son gilipollas (Proxima actualizacion)" />
 
             <Button
@@ -66,6 +67,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:background="@android:color/background_light"
                 android:text="Muy triste (Proxima actualizacion)" />
         </LinearLayout>
 
