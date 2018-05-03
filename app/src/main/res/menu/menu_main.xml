@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.iagt.lahorchverdad.paquete.example.iagt.lahorchverdad.MainActivity">
+    <item
+        android:id="@+id/cat_Todos"
+        android:orderInCategory="100"
+        android:title="Todos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Picante"
+        android:orderInCategory="100"
+        android:title="Picante"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Amor"
+        android:orderInCategory="100"
+        android:title="Amor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Salud"
+        android:orderInCategory="100"
+        android:title="Salud"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Amistad"
+        android:orderInCategory="100"
+        android:title="Amistad"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Familia"
+        android:orderInCategory="100"
+        android:title="Familia"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Trabajo"
+        android:orderInCategory="100"
+        android:title="Trabajo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Estudios"
+        android:orderInCategory="100"
+        android:title="Estudios"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Dinero"
+        android:orderInCategory="100"
+        android:title="Dinero"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cat_Otros"
+        android:orderInCategory="100"
+        android:title="Otros"
+        app:showAsAction="never" />
+
+
+</menu>
