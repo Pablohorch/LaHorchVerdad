@@ -134,7 +134,7 @@ class MainActivity : AppCompatActivity() {
                val conn:Connection
 
                 Class.forName("com.mysql.jdbc.Driver").newInstance()
-                conn=DriverManager.getConnection("jdbc:mysql://sql2.freesqldatabase.com:3306/sql2233658", "sql2233658", "uK4*dD2%")
+                conn=DriverManager.getConnection("jdbc:mysql://sql2.freesqldatabase.com:3306/sql2233658", "sql2233658", "null")
 
 
                 var st:Statement=conn.createStatement()
